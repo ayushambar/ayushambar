@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushambar&count_private=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushambar&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushambar&theme=radical&layout=compact" />
 
